@@ -1,1 +1,2 @@
-# nosql_challenge
+# NOSQL
+In this project, we utilized MongoDB and Python to analyze hygiene scores of various establishments in the UK. Our aim was to identify establishments with a hygiene score of 0, group them by their respective local authorities, and rank them based on frequency. After querying the MongoDB database and constructing an aggregation pipeline, we converted the results into a pandas DataFrame for further analysis. This allowed us to easily identify which local authorities had the highest number of establishments with hygiene scores of 0, providing valuable insights for regulatory and policy considerations.
